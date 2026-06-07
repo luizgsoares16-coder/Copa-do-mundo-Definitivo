@@ -1,0 +1,27 @@
+h3{
+    text-align: center;
+    color: white;
+    background-color: gold;
+    font-size: 25px;
+}
+
+body{
+    background-color: goldenrod;
+}
+
+th{
+    border: solid 1px;
+    border-collapse: collapse;
+}
+td{
+    border: solid 1px;
+    border-collapse: collapse;
+}
+
+strong{
+    font-size: 15px;
+}
+
+table{
+    text-align: center;
+}
